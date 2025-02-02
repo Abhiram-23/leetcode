@@ -51,7 +51,7 @@ This repository is licensed under the **MIT License**. Feel free to use the code
 
 ## **Connect with Me**
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abhirampaidimarri/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abhirampaidimarri/)
 - **Email**: abhipaidimarri23@gmail.com
 - **LeetCode Profile**: [leetcode.com/abhiram_paidimarri/](https://leetcode.com/abhiram_paidimarri/)
 
